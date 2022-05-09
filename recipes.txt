@@ -9,5 +9,9 @@ pizza
 soda bucket
 french fry
 
+hotdog
+pasta
+noodles
+
 
 thanks
