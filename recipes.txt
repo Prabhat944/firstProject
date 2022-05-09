@@ -5,5 +5,9 @@ Welcome to home kitchen
 chicken 
 paratha
 
+pizza
+soda bucket
+french fry
+
 
 thanks
